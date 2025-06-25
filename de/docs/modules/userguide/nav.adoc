@@ -8,6 +8,3 @@
 ** xref:task/Aufgabe erstellen.adoc[Aufgabe]
 ** xref:troubleshooting/Alle Ansichten im Dashboard sind leer.adoc[Ansichten Dashboard]
 
-* Sachbearbeiter
-** xref:Sachbearbeiter:concept/contentconcept.adoc[]
-** xref:Sachbearbeiter:concept/contenttasks.adoc[]
