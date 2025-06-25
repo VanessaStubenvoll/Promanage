@@ -1,0 +1,16 @@
+*Voraussetzungen*
+
+* Rolle User
+* Rolle Admin
+
+*Vorgehen*
+
+. Auf *Ansicht* klicken.
+. Auf *Neu* klicken.
+
+image::../../images/Koala.jpg[Koala]
+
+xref:../troubleshooting/Alle Ansichten im Dashboard sind leer.adoc[Troubleshooting]
+
+[.result]
+Die Ansicht ist im Dashboard angelegt.

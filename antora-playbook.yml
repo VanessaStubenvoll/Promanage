@@ -1,0 +1,19 @@
+site:
+  title: Promanage Docs
+
+  git:
+    ensure_git_suffix: false
+
+content:
+  sources:
+    - url: https://github.com/VanessaStubenvoll/Promanage.git
+      start_path: docs
+      branches: main
+      edit_url: false
+
+runtime:
+  fetch: true
+
+ui:
+  bundle:
+    url:
