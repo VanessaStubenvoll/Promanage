@@ -1,8 +1,0 @@
-Hauptfunktionen:
-Dashboard: Ein anpassbares Dashboard, das einen Überblick über alle aktuellen Projekte und deren Status bietet.
-Aufgabenverwaltung: Tools zur Erstellung, Zuweisung und Nachverfolgung von Aufgaben.
-Zeitplanung: Gantt-Diagramme und Kalenderansichten zur Visualisierung von Projektzeitplänen.
-Ressourcenmanagement: Funktionen zur Verwaltung und Zuweisung von Ressourcen, einschließlich Personal und Material.
-Berichterstellung: Automatisierte Berichte und Analysen zur Überwachung des Projektfortschritts und zur Identifizierung von Engpässen.
-Kommunikationstools: Integrierte Chat- und Nachrichtenfunktionen für die Teamkommunikation.
-Dateiverwaltung: Zentralisierte Speicherung und Verwaltung von projektbezogenen Dokumenten.

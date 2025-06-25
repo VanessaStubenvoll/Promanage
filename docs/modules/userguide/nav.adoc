@@ -1,0 +1,9 @@
+* ProManage Bedienungsanleitung
+** xref:concept/Für wen ProManage.adoc
+***  xref:concept/Was ist ProManage.adoc
+**** xref:concept/Was kann ProManage.adoc
+** xref:reference/Initialschätzung setzen.adoc
+*** xref:reference/IST-Stunden erfassen.adoc
+** xref:task/Ansicht hinzufügen oder entfernen.adoc
+** xref:task/Aufgabe erstellen.adoc
+** xref:troubleshooting/Alle Ansichten im Dashboard sind leer.adoc

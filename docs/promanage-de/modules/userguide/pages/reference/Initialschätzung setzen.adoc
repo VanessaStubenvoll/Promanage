@@ -1,8 +1,0 @@
-
-[cols="1a,1"]
-|===
-| Erfassungsarten|Beschreibung
-
-|*_Test_* | hallo
-|*_Test_* a| hallo
-

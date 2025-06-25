@@ -1,0 +1,7 @@
+name: docs
+title: Promanage Docs
+version: 33
+start_page: userguide:index.adoc
+
+nav:
+  - modules/userguide/nav.adoc
