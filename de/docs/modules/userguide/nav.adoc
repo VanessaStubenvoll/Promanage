@@ -8,3 +8,5 @@
 ** xref:task/Aufgabe erstellen.adoc[Aufgabe]
 ** xref:troubleshooting/Alle Ansichten im Dashboard sind leer.adoc[Ansichten Dashboard]
 
+include::adminguide:partial$nav.adoc[]
+include::Sachbearbeiter:partial$nav.adoc[]
