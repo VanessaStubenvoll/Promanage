@@ -1,6 +1,6 @@
 * Admin
-** xref:task/Was kann ProManage_admin.adoc[]
-** xref:troubleshooting/Aufgabe erstellen_admin.adoc[]
-** xref:reference/Ansicht hinzufügen oder entfernen_admin.adoc[]
-** xref:concept/Für wen ProManage_admin.adoc[]
+** xref:task/Was kann ProManage_admin.adoc[Was kann ProManage]
+** xref:troubleshooting/Aufgabe erstellen_admin.adoc[Aufgabe]
+** xref:reference/Ansicht hinzufügen oder entfernen_admin.adoc[Ansicht]
+** xref:concept/Für wen ProManage_admin.adoc[Für wen]
 
