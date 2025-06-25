@@ -9,5 +9,5 @@
 ** xref:troubleshooting/Alle Ansichten im Dashboard sind leer.adoc[Ansichten Dashboard]
 
 * Sachbearbeiter
-** xref:Sachbearbeiter:contentconcept.adoc[]
-** xref:Sachbearbeiter:contenttask.adoc[]
+** xref:Sachbearbeiter:concept/contentconcept.adoc[]
+** xref:Sachbearbeiter:concept/contenttasks.adoc[]
