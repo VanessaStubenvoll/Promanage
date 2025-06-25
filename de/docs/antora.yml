@@ -1,6 +1,6 @@
 name: docs
 title: Promanage Docs
-version: 33
+version: 22
 start_page: userguide:index.adoc
 
 nav:
