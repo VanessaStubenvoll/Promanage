@@ -1,8 +1,8 @@
 site:
   title: Promanage Docs
 
-  git:
-    ensure_git_suffix: false
+git:
+  ensure_git_suffix: false
 
 content:
   sources:
