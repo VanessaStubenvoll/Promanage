@@ -6,3 +6,4 @@ start_page: userguide:index.adoc
 nav:
   - modules/userguide/nav.adoc
   - modules/adminguide/nav.adoc
+  - modules/ROOT/nav.adoc
