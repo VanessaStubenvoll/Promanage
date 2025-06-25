@@ -1,7 +1,7 @@
-= Bedienungsanleitung ProManage
+= Bedienungsanleitung  und Admin ProManage
 
 Herzlich Wilkommen!
 Vielen Dank, dass Du dich für ProManage entschieden hast!
 
-== Erste Schritte
-== Hallo
+== Erste Schritte User
+== Hallo Admin
